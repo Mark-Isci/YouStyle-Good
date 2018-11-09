@@ -1,0 +1,131 @@
+.fa-play-circle{
+	color:#77B1AF;
+	font-size:40px;
+	padding-right: 10px;
+
+}
+.Style {
+	color:#77B1AF;
+}
+
+.header {
+	margin-bottom: 90px
+}
+.header-navbar {
+	background-color: #292A30;
+	padding: 20px;
+	display: block;
+}
+
+.footer {
+  padding: 30px;
+  background: #292A30;
+  color: lightgrey;
+  text-align: center;
+}
+.image {
+	max-width: 70%;
+}
+.carousel-inner img {
+  margin: auto;
+  padding-top: 50px;
+}
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #292A30;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #292A30;	
+}
+
+body{
+	font-family: 'Montserrat', sans-serif !important;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 48px;
+	color: #000000;
+	background-color: #F2F2F2 !important;
+}
+
+h2{
+	margin-left: 50px;
+	padding-bottom: 30px;
+	font-weight: bold !important;
+}
+
+.connexion {
+	color:white;
+	font-weight: lighter;
+}
+
+.you {
+	color:white;
+}
+
+h3{
+	margin-left: 50px;
+
+}
+
+.btn-secondary{
+	background-color: #292A30 !important;
+	border-color: #292A30 !important;
+}
+
+.btn-info{
+	margin-left: 30;
+	background-color: #77B1AF !important;
+	border-color: #77B1AF !important;
+	border-radius:0% !important;
+	font-size: 13px !important;
+
+}
+
+
+.form-control{
+	margin-left: 0px;
+	border-radius: 0% !important;
+
+}
+.tuto{
+	background-color: #FFFFFF;
+}
+.fa-bars {
+	color:white !important;
+	padding-left: 22px;
+}
+
+.list-inline {
+	padding-top: 40;
+	padding-bottom: 60;
+}
+
+.recherche {
+	max-width:250px;
+	background: url(image/favourite-31.svg) no-repeat scroll 0px 0px;
+	padding-left: 30px !important;
+	font-size:13px !important;
+
+}
+
+.feature {
+	padding-top: 50px;
+	padding-bottom : 100px;
+}
+
+.starter{
+	padding-right: 78px !important;
+}
+
+.defile{
+	width:1290px;
+}
+.picto{
+	padding-left: 900px;
+}
